@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,14 +24,14 @@
             <state relative-caret-position="136">
               <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <marker date="1502896178037" expanded="true" signature="4418:4442" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4418:4455" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4418:4741" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4418:4751" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4418:4762" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4418:4774" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4500:4730" ph="..." />
-                <marker date="1502896178037" expanded="true" signature="4512:4717" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4442" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4455" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4741" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4751" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4762" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4418:4774" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4500:4730" ph="..." />
+                <marker date="1502896791612" expanded="true" signature="4512:4717" ph="..." />
               </folding>
             </state>
           </provider>
@@ -43,7 +42,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="187">
-                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -192,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502893591503</updated>
-      <workItem from="1502893592817" duration="2586000" />
+      <workItem from="1502893592817" duration="3211000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1502895538050</created>
@@ -208,11 +207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502895817632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modernist theme">
+      <created>1502896193529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502896193529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2586000" />
+    <option name="totallyTimeSpent" value="3211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -248,7 +254,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Minima theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minima theme" />
+    <MESSAGE value="Modernist theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modernist theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -260,14 +267,14 @@
         <state relative-caret-position="136">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
-            <marker date="1502896178037" expanded="true" signature="4418:4442" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4418:4455" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4418:4741" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4418:4751" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4418:4762" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4418:4774" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4500:4730" ph="..." />
-            <marker date="1502896178037" expanded="true" signature="4512:4717" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4442" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4455" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4741" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4751" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4762" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4418:4774" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4500:4730" ph="..." />
+            <marker date="1502896791612" expanded="true" signature="4512:4717" ph="..." />
           </folding>
         </state>
       </provider>
@@ -303,7 +310,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="187">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
