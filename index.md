@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# some thing make
-masa
+# Hello world 
 
-*some* 
+# This website is for the Visual Computing Class
+
