@@ -25,7 +25,7 @@ github_username:  japrietov
 
 # Build settings
 markdown: kramdown
-theme: Solana
+theme: minima
 plugins:
   - jekyll-feed
 
