@@ -8,6 +8,21 @@ layout: home
 # Jeisson Andres Prieto Velandia
 
 email: *japrietov@unal.edu.co*
-linkedin: 
+
+linkedin: https://www.linkedin.com/in/jeisson-prieto/
+
+## PERSONAL PROFILE
+
+A highly accomplished, skilled and knowledgeable Computer Science student with knowledge of data science, Natural Language Processing and optimization. Excellent interpersonal skills, willing to help, logical and creative thinking. With expertise in research, able to work both independently and as a supportive team member.  
+
+
+## EDUCATION
+
+**Bachelor of Engineering: Computing Systems Engineering**          
+2012 - Present   Universidad Nacional de Colombia, Bogotá, Colombia.
+
+
+
+
 
 
