@@ -5,8 +5,9 @@
 layout: home
 ---
 
-# Hello world 
+# Jeisson Andres Prieto Velandia
 
-# This website is for the Visual Computing Class
+email: *japrietov@unal.edu.co*
+linkedin: 
 
-*asjkdhakjsd*
+
