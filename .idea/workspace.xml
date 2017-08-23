@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/education.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workExperience.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/education.md" afterPath="$PROJECT_DIR$/education.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,22 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
-                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor relative-caret-position="84">
+                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,12 +48,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="education.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="education.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/education.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,11 +61,54 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="workExperience.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/workExperience.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="294">
+              <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -91,19 +127,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="-404">
+              <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+              <folding>
+                <marker date="1503521026300" expanded="true" signature="2343:3089" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2371:3077" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2402:3063" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2434:2484" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2514:3051" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2721:2878" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="2883:3040" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3123:5270" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3148:5259" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3254:5249" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3298:3575" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3332:3562" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3347:3436" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3620:4839" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3659:4826" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3685:4789" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3737:4772" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="3769:4729" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="4884:5238" ph="..." />
+                <marker date="1503521026300" expanded="true" signature="4896:5225" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,11 +165,12 @@
       <list>
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/_site/about/index.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/education.md" />
+        <option value="$PROJECT_DIR$/_site/about/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/workExperience.md" />
       </list>
     </option>
   </component>
@@ -183,6 +231,12 @@
               <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="japrietov-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="japrietov-site" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="education" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -219,7 +273,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502893591503</updated>
       <workItem from="1502893592817" duration="5710000" />
-      <workItem from="1503519297793" duration="1049000" />
+      <workItem from="1503519297793" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1502895538050</created>
@@ -277,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503520062137</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Education">
+      <created>1503520352662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1503520352662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6759000" />
+    <option name="totallyTimeSpent" value="7456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="193" y="62" width="1922" height="1095" extended-state="6" />
@@ -320,7 +381,8 @@
     <MESSAGE value="Modernist theme" />
     <MESSAGE value="Architecture theme" />
     <MESSAGE value="Profile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Profile" />
+    <MESSAGE value="Education" />
+    <option name="LAST_COMMIT_MESSAGE" value="Education" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -377,7 +439,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1148">
           <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
-          <folding />
+          <folding>
+            <marker date="1503521026300" expanded="true" signature="2343:3089" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2371:3077" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2402:3063" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2434:2484" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2514:3051" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2721:2878" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2883:3040" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3123:5270" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3148:5259" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3254:5249" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3298:3575" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3332:3562" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3347:3436" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3620:4839" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3659:4826" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3685:4789" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3737:4772" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3769:4729" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="4884:5238" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="4896:5225" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -385,14 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -405,37 +480,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-16-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -451,11 +515,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding>
+            <marker date="1503521026300" expanded="true" signature="2343:3089" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2371:3077" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2402:3063" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2434:2484" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2514:3051" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2721:2878" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="2883:3040" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3123:5270" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3148:5259" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3254:5249" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3298:3575" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3332:3562" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3347:3436" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3620:4839" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3659:4826" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3685:4789" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3737:4772" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="3769:4729" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="4884:5238" ph="..." />
+            <marker date="1503521026300" expanded="true" signature="4896:5225" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/education.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workExperience.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
