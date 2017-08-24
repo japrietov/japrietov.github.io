@@ -16,10 +16,9 @@
 title: Jeisson Andres Prieto Velandia
 email: japrietov@unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
-  A highly accomplished, skilled and knowledgeable Computer Science student with knowledge of data science, Natural Language Processing and optimization. Excellent interpersonal skills, willing to help, logical and creative thinking. With expertise in research, able to work both independently and as a supportive team member.
-
+something
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.linkedin.com/in/jeisson-prieto/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.linkedin.com/in/jeisson-prieto # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  japrietov
 
 # Build settings

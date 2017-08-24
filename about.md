@@ -9,3 +9,6 @@ of data science, Natural Language Processing and optimization. Excellent interpe
 willing to help, logical and creative thinking. With expertise in research, able to work both 
 independently and as a supportive team member.  
 
+
+
+### 
