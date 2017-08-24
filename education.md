@@ -16,7 +16,7 @@ _**Universidad Nacional de Colombia, Bogotá, Colombia.**_   &nbsp;&nbsp;&nbsp;&
 Data science, Natural Language Processing, Optimization.
 
 
-Researcher in the group of data mining MIDAS of Universidad Nacional de Colombia. Projects related to social network analysis, text mining, bioinformatics and optimization.
+Researcher in the group of data mining [MIDAS](http://www.midas.unal.edu.co/en-us/) of _Universidad Nacional de Colombia_. Projects related to social network analysis, text mining, bioinformatics and optimization.
 
 ---
 
