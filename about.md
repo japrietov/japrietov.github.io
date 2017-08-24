@@ -10,5 +10,3 @@ willing to help, logical and creative thinking. With expertise in research, able
 independently and as a supportive team member.  
 
 
-
-### 
