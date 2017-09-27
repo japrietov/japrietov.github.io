@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="Website v3.0">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/containing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/disjoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/intersecting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/surrounding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-27-DivideAndConquer-TheWarnockAlgorithm.markdown" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-08-16-welcome-to-jekyll.markdown" afterPath="" />
+    <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -283,7 +277,7 @@
       <workItem from="1503605456884" duration="1163000" />
       <workItem from="1503638427904" duration="229000" />
       <workItem from="1503673711551" duration="738000" />
-      <workItem from="1506532289291" duration="1957000" />
+      <workItem from="1506532289291" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1502895538050</created>
@@ -439,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503638639733</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Warnock Algorithm Version 1.0">
+      <created>1506534269586</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1506534269586</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20669000" />
+    <option name="totallyTimeSpent" value="20704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="193" y="62" width="1922" height="1095" extended-state="6" />
@@ -508,7 +509,8 @@
     <MESSAGE value="Website v1.0" />
     <MESSAGE value="Website v2.0" />
     <MESSAGE value="Website v3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Website v3.0" />
+    <MESSAGE value="Warnock Algorithm Version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Warnock Algorithm Version 1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
