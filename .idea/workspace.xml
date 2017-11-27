@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-26-DNA_visualization.markdown" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/containing1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/disjoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/intersecting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/surrounding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-26-DNA_visualization.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,21 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-27-DivideAndConquer-TheWarnockAlgorithm.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-09-27-DivideAndConquer-TheWarnockAlgorithm.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-27-DivideAndConquer-TheWarnockAlgorithm.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-11-26-DNA_visualization.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-26-DNA_visualization.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="81" column="50" lean-forward="true" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -122,9 +108,22 @@
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2352">
-              <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
               <folding>
-                <marker date="1506546807072" expanded="true" signature="3794:3806" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3199:4138" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3224:4127" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3314:4117" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3358:3619" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3392:3606" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3407:3480" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3664:4032" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3703:4017" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3725:3844" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3773:3832" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3869:3998" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="3922:3986" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="4020:4032" ph="..." />
+                <marker date="1511742527110" expanded="true" signature="4077:4106" ph="..." />
               </folding>
             </state>
           </provider>
@@ -337,7 +336,7 @@
       <workItem from="1503673711551" duration="738000" />
       <workItem from="1506532289291" duration="8997000" />
       <workItem from="1511630531343" duration="834000" />
-      <workItem from="1511738579898" duration="979000" />
+      <workItem from="1511738579898" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1502895538050</created>
@@ -521,11 +520,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506546138831</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="DNA visualization 1.0">
+      <created>1511741269239</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1511741269239</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29522000" />
+    <option name="totallyTimeSpent" value="30814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="193" y="62" width="1922" height="1095" extended-state="6" />
@@ -592,7 +598,8 @@
     <MESSAGE value="Website v3.0" />
     <MESSAGE value="Warnock Algorithm Version 1.0" />
     <MESSAGE value="Warnock Algorithm Version 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Warnock Algorithm Version 2.0" />
+    <MESSAGE value="DNA visualization 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="DNA visualization 1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -836,7 +843,7 @@
         <state relative-caret-position="1960">
           <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
           <folding>
-            <marker date="1506546807068" expanded="true" signature="3902:3914" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3902:3914" ph="..." />
           </folding>
         </state>
       </provider>
@@ -844,9 +851,22 @@
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2352">
-          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
           <folding>
-            <marker date="1506546807072" expanded="true" signature="3794:3806" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3199:4138" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3224:4127" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3314:4117" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3358:3619" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3392:3606" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3407:3480" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3664:4032" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3703:4017" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3725:3844" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3773:3832" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3869:3998" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="3922:3986" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="4020:4032" ph="..." />
+            <marker date="1511742527110" expanded="true" signature="4077:4106" ph="..." />
           </folding>
         </state>
       </provider>
@@ -930,8 +950,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-26-DNA_visualization.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="81" column="50" lean-forward="true" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+        <state relative-caret-position="602">
+          <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
           <folding />
         </state>
       </provider>
