@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf56bb71-8afc-4ec6-926d-fa02852c0653" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-26-DNA_visualization.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -336,7 +335,7 @@
       <workItem from="1503673711551" duration="738000" />
       <workItem from="1506532289291" duration="8997000" />
       <workItem from="1511630531343" duration="834000" />
-      <workItem from="1511738579898" duration="2271000" />
+      <workItem from="1511738579898" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1502895538050</created>
@@ -527,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511741269239</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Normal commit">
+      <created>1511742681791</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1511742681791</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30814000" />
+    <option name="totallyTimeSpent" value="30834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="193" y="62" width="1922" height="1095" extended-state="6" />
@@ -599,7 +605,8 @@
     <MESSAGE value="Warnock Algorithm Version 1.0" />
     <MESSAGE value="Warnock Algorithm Version 2.0" />
     <MESSAGE value="DNA visualization 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="DNA visualization 1.0" />
+    <MESSAGE value="Normal commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Normal commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
