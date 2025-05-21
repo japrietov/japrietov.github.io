@@ -14,10 +14,14 @@ menu:
     main:
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 1
         - name: Talks
           url: talks/
-          weight: 3 
+          weight: 2 
+        - name: Resume
+          url: CV_2025.pdf
+          weight: 3
+
 
 params:
     description: "This website hosts Jeisson Prieto's research papers, curriculum vitae, and contact information."
@@ -35,7 +39,6 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers", "talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,6 +58,8 @@ params:
               url: papers/
             - name: Talks
               url: talks/
+            - name: Resume
+              url: CV_2025.pdf
             # - name: Data
             #   url: data/
             # - name: Books
@@ -69,10 +74,12 @@ params:
               # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: CV_2025.pdf
+        # - name: CV
+        #   url: CV_2025.pdf
         - name: Email
           url: mailto:jp2276@cornell.edu
+        - name: Location
+          url: location/
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         # - name: Location
