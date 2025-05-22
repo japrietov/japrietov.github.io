@@ -6,8 +6,22 @@
     <description>Recent content on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal</title>
+      <link>http://localhost:1313/research/2025_pcmanagement/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2025_pcmanagement/</guid>
+      <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
+    </item>
+    <item>
+      <title>The Impact of Climate Change on Global Trade through the Panama Canal</title>
+      <link>http://localhost:1313/research/2025_pctrade/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2025_pctrade/</guid>
+      <description>This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint.</description>
+    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
@@ -23,17 +37,24 @@
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
+      <title>Climate Change-driven drought could put the Panama Canal at risk</title>
+      <link>http://localhost:1313/research/2025_pcclimate/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/2025_pcclimate/</guid>
+      <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
+    </item>
+    <item>
       <title>Urban Vulnerability Assessment for Pandemic Surveillance—The COVID-19 Case in Bogotá, Colombia</title>
-      <link>http://localhost:1313/papers/2021_uva/</link>
+      <link>http://localhost:1313/publications/2021_uva/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/2021_uva/</guid>
+      <guid>http://localhost:1313/publications/2021_uva/</guid>
       <description>The Urban Vulnerability Assessment (UVA) is a methodology to identify areas most at risk during pandemics by analyzing factors like urban density, poverty, and informal labor. Applied to Bogotá, Colombia during COVID-19, it helps prioritize surveillance and supports disaster risk reduction policies across scales and under resource-constrained scenarios.</description>
     </item>
     <item>
       <title>INFEKTA—An agent-based model for transmission of infectious diseases: The COVID-19 case in Bogotá, Colombia</title>
-      <link>http://localhost:1313/papers/2021_infekta/</link>
+      <link>http://localhost:1313/publications/2021_infekta/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/2021_infekta/</guid>
+      <guid>http://localhost:1313/publications/2021_infekta/</guid>
       <description>INFEKTA is an agent-based model that simulates infectious disease spread, including COVID-19, by integrating demographic data and mobility patterns within urban spaces. Applied to Bogotá, Colombia it shows that moderate social distancing (e.g., closing 40% of locations) can effectively reduce transmission, supporting data-driven public health policy decisions.</description>
     </item>
     <item>

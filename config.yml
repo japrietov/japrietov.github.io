@@ -12,15 +12,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Working papers
+          url: /research/
           weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
         - name: Talks
           url: talks/
-          weight: 2 
-        - name: Resume
+          weight: 3 
+        - name: CV
           url: CV_2025.pdf
-          weight: 3
+          weight: 4
 
 
 params:
@@ -54,11 +57,13 @@ params:
           imageWidth: 160"
           imageHeight: 160"
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Working papers
+              url: /research/
+            - name: Publications
+              url: publications/
             - name: Talks
               url: talks/
-            - name: Resume
+            - name: CV
               url: CV_2025.pdf
             # - name: Data
             #   url: data/

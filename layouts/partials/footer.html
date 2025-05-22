@@ -6,16 +6,16 @@
     {{- else }}
     <span>&copy; {{ now.Year }} {{ site.Title }}</span>
     {{- end }}
-    {{- print " · "}}
+    <!-- {{- print " · "}} -->
     {{- end }}
 
-    {{- with site.Params.footer.text }}
+    <!-- {{- with site.Params.footer.text }}
     {{ . | markdownify }}
     {{- print " · "}}
-    {{- end }}    
-    <span>
+    {{- end }}     -->
+    <!-- <span>
     Powered by <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">hugo-website</a>.
-    </span>
+    </span> -->
 </footer>
 {{- end }}
 
