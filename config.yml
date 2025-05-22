@@ -22,7 +22,7 @@ menu:
           url: talks/
           weight: 3 
         - name: CV
-          url: jp-CV.pdf
+          url: jp-cv.pdf
           weight: 4
 
 
@@ -31,7 +31,7 @@ params:
     author: Jeisson Prieto
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false

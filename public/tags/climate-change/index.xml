@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Climate Change on Jeisson Prieto</title>
-    <link>http://jeissonprieto.com/tags/climate-change/</link>
+    <link>http://localhost:1313/tags/climate-change/</link>
     <description>Recent content in Climate Change on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jeissonprieto.com/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Impact of Climate Change on Global Trade through the Panama Canal</title>
-      <link>http://jeissonprieto.com/research/2025_pctrade/</link>
+      <link>http://localhost:1313/research/2025_pctrade/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/research/2025_pctrade/</guid>
+      <guid>http://localhost:1313/research/2025_pctrade/</guid>
       <description>This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint.</description>
     </item>
     <item>
       <title>Climate Change-driven drought could put the Panama Canal at risk</title>
-      <link>http://jeissonprieto.com/research/2025_pcclimate/</link>
+      <link>http://localhost:1313/research/2025_pcclimate/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/research/2025_pcclimate/</guid>
+      <guid>http://localhost:1313/research/2025_pcclimate/</guid>
       <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
     </item>
   </channel>
