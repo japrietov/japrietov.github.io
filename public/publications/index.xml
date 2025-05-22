@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Published papers on Jeisson Prieto</title>
-    <link>http://jeissonprieto.com/publications/</link>
+    <link>https://jeissonprieto.com/publications/</link>
     <description>Recent content in Published papers on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jeissonprieto.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeissonprieto.com/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urban Vulnerability Assessment for Pandemic Surveillance—The COVID-19 Case in Bogotá, Colombia</title>
-      <link>http://jeissonprieto.com/publications/2021_uva/</link>
+      <link>https://jeissonprieto.com/publications/2021_uva/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/publications/2021_uva/</guid>
+      <guid>https://jeissonprieto.com/publications/2021_uva/</guid>
       <description>The Urban Vulnerability Assessment (UVA) is a methodology to identify areas most at risk during pandemics by analyzing factors like urban density, poverty, and informal labor. Applied to Bogotá, Colombia during COVID-19, it helps prioritize surveillance and supports disaster risk reduction policies across scales and under resource-constrained scenarios.</description>
     </item>
     <item>
       <title>INFEKTA—An agent-based model for transmission of infectious diseases: The COVID-19 case in Bogotá, Colombia</title>
-      <link>http://jeissonprieto.com/publications/2021_infekta/</link>
+      <link>https://jeissonprieto.com/publications/2021_infekta/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/publications/2021_infekta/</guid>
+      <guid>https://jeissonprieto.com/publications/2021_infekta/</guid>
       <description>INFEKTA is an agent-based model that simulates infectious disease spread, including COVID-19, by integrating demographic data and mobility patterns within urban spaces. Applied to Bogotá, Colombia it shows that moderate social distancing (e.g., closing 40% of locations) can effectively reduce transmission, supporting data-driven public health policy decisions.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Simulation on Jeisson Prieto</title>
-    <link>http://jeissonprieto.com/tags/simulation/</link>
+    <link>https://jeissonprieto.com/tags/simulation/</link>
     <description>Recent content in Simulation on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jeissonprieto.com/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeissonprieto.com/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal</title>
-      <link>http://jeissonprieto.com/research/2025_pcmanagement/</link>
+      <link>https://jeissonprieto.com/research/2025_pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/research/2025_pcmanagement/</guid>
+      <guid>https://jeissonprieto.com/research/2025_pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
     <item>
       <title>Climate Change-driven drought could put the Panama Canal at risk</title>
-      <link>http://jeissonprieto.com/research/2025_pcclimate/</link>
+      <link>https://jeissonprieto.com/research/2025_pcclimate/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/research/2025_pcclimate/</guid>
+      <guid>https://jeissonprieto.com/research/2025_pcclimate/</guid>
       <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
     </item>
     <item>
       <title>INFEKTA—An agent-based model for transmission of infectious diseases: The COVID-19 case in Bogotá, Colombia</title>
-      <link>http://jeissonprieto.com/publications/2021_infekta/</link>
+      <link>https://jeissonprieto.com/publications/2021_infekta/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/publications/2021_infekta/</guid>
+      <guid>https://jeissonprieto.com/publications/2021_infekta/</guid>
       <description>INFEKTA is an agent-based model that simulates infectious disease spread, including COVID-19, by integrating demographic data and mobility patterns within urban spaces. Applied to Bogotá, Colombia it shows that moderate social distancing (e.g., closing 40% of locations) can effectively reduce transmission, supporting data-driven public health policy decisions.</description>
     </item>
   </channel>

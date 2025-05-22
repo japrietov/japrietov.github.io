@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dynamic Optimization on Jeisson Prieto</title>
-    <link>http://jeissonprieto.com/tags/dynamic-optimization/</link>
+    <link>https://jeissonprieto.com/tags/dynamic-optimization/</link>
     <description>Recent content in Dynamic Optimization on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jeissonprieto.com/tags/dynamic-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeissonprieto.com/tags/dynamic-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal</title>
-      <link>http://jeissonprieto.com/research/2025_pcmanagement/</link>
+      <link>https://jeissonprieto.com/research/2025_pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://jeissonprieto.com/research/2025_pcmanagement/</guid>
+      <guid>https://jeissonprieto.com/research/2025_pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
   </channel>
