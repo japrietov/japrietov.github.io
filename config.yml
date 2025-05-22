@@ -53,7 +53,7 @@ params:
           enabled: true
           title: Jeisson Prieto
           subtitle: "I’m a PhD student in Applied Economics & Management at Cornell University. My research lies at the intersection of Climate Change, International Trade, and Water Resources. Before starting my PhD, I completed a Master’s in Applied Mathematics and a Bachelor’s in Computer and Systems Engineering at the Universidad Nacional de Colombia."
-          imageUrl: "jp2276_squared.png"
+          imageUrl: "picture.jpeg"
           imageWidth: 160"
           imageHeight: 160"
           buttons:
@@ -64,7 +64,7 @@ params:
             - name: Talks
               url: talks/
             - name: CV
-              url: CV_2025.pdf
+              url: cv.pdf
             # - name: Data
             #   url: data/
             # - name: Books

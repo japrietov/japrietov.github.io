@@ -6,7 +6,7 @@ hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", "Stefano Galelli", "Ariel Ortiz-Bobea"]
 summary: "This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience." 
 cover:
-    image: "img_papers/2025_PCmanagement.jpeg"
+    image: "2025_PCmanagement.jpeg"
     alt: "PCmanagement"
     relative: true
 # editPost:
