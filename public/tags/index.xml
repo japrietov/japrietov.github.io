@@ -2,185 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Jeisson Prieto</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://jeissonprieto.com/tags/</link>
     <description>Recent content in Tags on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeissonprieto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Optimization</title>
-      <link>http://localhost:1313/tags/dynamic-optimization/</link>
+      <link>http://jeissonprieto.com/tags/dynamic-optimization/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dynamic-optimization/</guid>
+      <guid>http://jeissonprieto.com/tags/dynamic-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Simulation</title>
-      <link>http://localhost:1313/tags/simulation/</link>
+      <link>http://jeissonprieto.com/tags/simulation/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/simulation/</guid>
+      <guid>http://jeissonprieto.com/tags/simulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncertanty</title>
-      <link>http://localhost:1313/tags/uncertanty/</link>
+      <link>http://jeissonprieto.com/tags/uncertanty/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/uncertanty/</guid>
+      <guid>http://jeissonprieto.com/tags/uncertanty/</guid>
       <description></description>
     </item>
     <item>
       <title>Water</title>
-      <link>http://localhost:1313/tags/water/</link>
+      <link>http://jeissonprieto.com/tags/water/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water/</guid>
+      <guid>http://jeissonprieto.com/tags/water/</guid>
       <description></description>
     </item>
     <item>
       <title>Climate Change</title>
-      <link>http://localhost:1313/tags/climate-change/</link>
+      <link>http://jeissonprieto.com/tags/climate-change/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/climate-change/</guid>
+      <guid>http://jeissonprieto.com/tags/climate-change/</guid>
       <description></description>
     </item>
     <item>
       <title>International Trade</title>
-      <link>http://localhost:1313/tags/international-trade/</link>
+      <link>http://jeissonprieto.com/tags/international-trade/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/international-trade/</guid>
+      <guid>http://jeissonprieto.com/tags/international-trade/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Parametric</title>
-      <link>http://localhost:1313/tags/non-parametric/</link>
+      <link>http://jeissonprieto.com/tags/non-parametric/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/non-parametric/</guid>
+      <guid>http://jeissonprieto.com/tags/non-parametric/</guid>
       <description></description>
     </item>
     <item>
       <title>Complex Systems</title>
-      <link>http://localhost:1313/tags/complex-systems/</link>
+      <link>http://jeissonprieto.com/tags/complex-systems/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/complex-systems/</guid>
+      <guid>http://jeissonprieto.com/tags/complex-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Infectious Diseases</title>
-      <link>http://localhost:1313/tags/infectious-diseases/</link>
+      <link>http://jeissonprieto.com/tags/infectious-diseases/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/infectious-diseases/</guid>
+      <guid>http://jeissonprieto.com/tags/infectious-diseases/</guid>
       <description></description>
     </item>
     <item>
       <title>Spatial Analysis</title>
-      <link>http://localhost:1313/tags/spatial-analysis/</link>
+      <link>http://jeissonprieto.com/tags/spatial-analysis/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spatial-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataset</title>
-      <link>http://localhost:1313/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dataset/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>French</title>
-      <link>http://localhost:1313/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/french/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italian</title>
-      <link>http://localhost:1313/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/italian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulations</title>
-      <link>http://localhost:1313/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/simulations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portugese</title>
-      <link>http://localhost:1313/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Celtic Languages</title>
-      <link>http://localhost:1313/tags/celtic-languages/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/celtic-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irish</title>
-      <link>http://localhost:1313/tags/irish/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Language Modernization</title>
-      <link>http://localhost:1313/tags/language-modernization/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-modernization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Profanity</title>
-      <link>http://localhost:1313/tags/profanity/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profanity/</guid>
+      <guid>http://jeissonprieto.com/tags/spatial-analysis/</guid>
       <description></description>
     </item>
   </channel>

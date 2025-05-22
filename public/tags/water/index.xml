@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Water on Jeisson Prieto</title>
-    <link>http://localhost:1313/tags/water/</link>
+    <link>http://jeissonprieto.com/tags/water/</link>
     <description>Recent content in Water on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/water/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeissonprieto.com/tags/water/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal</title>
-      <link>http://localhost:1313/research/2025_pcmanagement/</link>
+      <link>http://jeissonprieto.com/research/2025_pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2025_pcmanagement/</guid>
+      <guid>http://jeissonprieto.com/research/2025_pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
     <item>
       <title>The Impact of Climate Change on Global Trade through the Panama Canal</title>
-      <link>http://localhost:1313/research/2025_pctrade/</link>
+      <link>http://jeissonprieto.com/research/2025_pctrade/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2025_pctrade/</guid>
+      <guid>http://jeissonprieto.com/research/2025_pctrade/</guid>
       <description>This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint.</description>
     </item>
   </channel>
