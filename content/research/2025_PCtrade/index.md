@@ -5,7 +5,7 @@ author: ["<strong>Jeisson Prieto</strong>"]
 date: 2025-04-01
 summary: "This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint." 
 cover:
-    image: "2025_PCtrade.jpeg"
+    image: "img_papers/2025_PCtrade.jpeg"
     alt: "PCtrade"
     relative: true
 # editPost:

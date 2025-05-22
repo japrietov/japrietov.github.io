@@ -8,7 +8,7 @@ journal: "Sustainability, 2021"
 hideJournal: false
 summary: "The Urban Vulnerability Assessment (UVA) is a methodology to identify areas most at risk during pandemics by analyzing factors like urban density, poverty, and informal labor. Applied to Bogotá, Colombia during COVID-19, it helps prioritize surveillance and supports disaster risk reduction policies across scales and under resource-constrained scenarios." 
 cover:
-    image: "2021_UVA.png"
+    image: "img_papers/2021_UVA.png"
     alt: "UVA"
     relative: true
 editPost:

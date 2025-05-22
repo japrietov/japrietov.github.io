@@ -5,7 +5,7 @@ date: 2024-01-01
 author: ["<strong>Jeisson Prieto</strong>", "Dimitris A. Herrera",  "Ariel Ortiz-Bobea", "Ronal Kalafsky"]
 summary: "This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce." 
 cover:
-    image: "2025_PCclimate.jpeg"
+    image: "img_papers/2025_PCclimate.jpeg"
     alt: "PCmanagement"
     relative: true
 # editPost:
