@@ -64,7 +64,7 @@ params:
             - name: Talks
               url: talks/
             - name: CV
-              url: cv.pdf
+              url: jp-cv.pdf
             # - name: Data
             #   url: data/
             # - name: Books
