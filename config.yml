@@ -27,7 +27,7 @@ menu:
 
 
 params:
-    description: "This website hosts Jeisson Prieto's research papers, curriculum vitae, and contact information."
+    description: "Jeisson Prieto's website."
     author: Jeisson Prieto
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
