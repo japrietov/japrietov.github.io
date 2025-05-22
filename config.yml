@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Working papers
+        - name: Work in progress
           url: /research/
           weight: 1
         - name: Publications
@@ -57,8 +57,8 @@ params:
           imageWidth: 160"
           imageHeight: 160"
           buttons:
-            - name: Working papers
-              url: /research/
+            - name: Work in progress
+              url: research/
             - name: Publications
               url: publications/
             - name: Talks
