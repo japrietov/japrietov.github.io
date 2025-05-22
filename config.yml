@@ -113,7 +113,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Jeisson Prieto"
-      icon: favicon_JP/favicon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
