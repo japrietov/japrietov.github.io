@@ -19,8 +19,8 @@ Regensburg, Germany
 
 #### Office address
 
-360 Warren Hall
-Cornell University
+360 Warren Hall,
+Cornell University,
 Ithaca, NY
 
 ---
