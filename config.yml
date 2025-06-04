@@ -29,7 +29,7 @@ menu:
 params:
     description: "Jeisson Prieto's website."
     author: Jeisson Prieto
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-RY5T0358YL"
     DateFormat: "January 2006"
     defaultTheme: dark
     hideFooter: true
