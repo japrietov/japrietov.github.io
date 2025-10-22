@@ -3,8 +3,9 @@ title: "Talks"
 description: "Given talks at conferences and seminars"
 ---
 
-
 ## 2025
+- *"How to make the Panama Canal less vulnerable to droughts?"* [AGU25 Annual Meeting](https://www.agu.org/annual-Meeting), New Orleans, LA, 2025.
+- *"Extreme heat negatively impacts dairy milk yield, fat and protein."* [AGU25 Annual Meeting](https://www.agu.org/annual-Meeting), New Orleans, LA, 2025.
 - *"Optimal Reservoir Control in the Panama Canal."* [Association of Environmental and Resource Economists (AERE) Summer Conference](https://www.aere.org/summer-conference), Santa Ana Pueblo, NM, 2025.
 
 ## 2024
