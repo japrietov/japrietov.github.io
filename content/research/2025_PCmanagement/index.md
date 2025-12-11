@@ -1,9 +1,10 @@
 ---
-title: "Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal" 
+title: "How to make the Panama Canal less vulnerable to droughts?" 
 tags: ["water", "dynamic optimization", "uncertanty", "simulation"]
 date: 2025-05-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", "Stefano Galelli", "Ariel Ortiz-Bobea"]
+hideSummary: true
 summary: "This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience." 
 cover:
     image: "2025_PCmanagement.jpeg"

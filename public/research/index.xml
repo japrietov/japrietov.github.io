@@ -9,14 +9,14 @@
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Optimal Reservoir Control for Managing Conflicting Demands in the Panama Canal</title>
+      <title>How to make the Panama Canal less vulnerable to droughts?</title>
       <link>http://localhost:1313/research/2025_pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/2025_pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
     <item>
-      <title>The Impact of Climate Change on Global Trade through the Panama Canal</title>
+      <title>The Impact of Climate Change on Trade through the Panama Canal</title>
       <link>http://localhost:1313/research/2025_pctrade/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/2025_pctrade/</guid>

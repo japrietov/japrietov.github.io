@@ -3,6 +3,7 @@ title: "Climate Change-driven drought could put the Panama Canal at risk"
 tags: ["climate change", "non-parametric", "simulation"]
 date: 2024-01-01
 author: ["<strong>Jeisson Prieto</strong>", "Dimitris A. Herrera",  "Ariel Ortiz-Bobea", "Ronal Kalafsky"]
+hideSummary: true
 summary: "This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce." 
 cover:
     image: "2025_PCclimate.jpeg"

@@ -13,7 +13,15 @@
       <link>http://localhost:1313/publications/2021_uva/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/2021_uva/</guid>
-      <description>The Urban Vulnerability Assessment (UVA) is a methodology to identify areas most at risk during pandemics by analyzing factors like urban density, poverty, and informal labor. Applied to Bogotá, Colombia during COVID-19, it helps prioritize surveillance and supports disaster risk reduction policies across scales and under resource-constrained scenarios.</description>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;related-material&#34;&gt;Related material&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2071-1050/13/6/3402&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/japrietov/UVA&#34; target=&#34;_blank&#34;&gt;Code and data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;A pandemic devastates the lives of global citizens and causes significant economic, social, and political disruption. Evidence suggests that the likelihood of pandemics has increased over the past century because of increased global travel and integration, urbanization, and changes in land use with a profound affectation of society–nature metabolism. Further, evidence concerning the urban character of the pandemic has underlined the role of cities in disease transmission. An early assessment of the severity of infection and transmissibility can help quantify the pandemic potential and prioritize surveillance to control highly vulnerable urban areas in pandemics. In this paper, an Urban Vulnerability Assessment (UVA) methodology is proposed. UVA investigates various vulnerability factors related to pandemics to assess the vulnerability in urban areas. A vulnerability index is constructed by the aggregation of multiple vulnerability factors computed on each urban area (i.e., urban density, poverty index, informal labor, transmission routes). This methodology is useful in a-priori evaluation and development of policies and programs aimed at reducing disaster risk (DRR) at different scales (i.e., addressing urban vulnerability at national, regional, and provincial scales), under diverse scenarios of resources scarcity (i.e., short and long-term actions), and for different audiences (i.e., the general public, policy-makers, international organizations). The applicability of UVA is shown by the identification of high vulnerable areas based on publicly available data where surveillance should be prioritized in the COVID-19 pandemic in Bogotá, Colombia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>INFEKTA—An agent-based model for transmission of infectious diseases: The COVID-19 case in Bogotá, Colombia</title>
