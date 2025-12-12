@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agriculture on Jeisson Prieto</title>
+    <link>http://localhost:1313/tags/agriculture/</link>
+    <description>Recent content in Agriculture on Jeisson Prieto</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounting for quality more than doubles estimated heat damages to U.S. milk production</title>
+      <link>http://localhost:1313/research/milkclimate/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/milkclimate/</guid>
+      <description>&lt;!-- 
+
+
+##### Related material
+
++ Slides
+&lt;!-- + [Slides](/) --&gt;
+&lt;!-- + [Code and data](https://github.com/japrietov/INFEKTA) --&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
+&lt;p&gt;Water is a vital resource for human survival and economic activity, yet multipurpose reservoir systems face increasing pressure from competing demands and intensifying hydroclimatic variability. The Panama Canal Watershed (PCW)—a rain-fed system supporting global trade, hydropower, and municipal supply—illustrates this challenge. I develop a structural model of dynamic water allocation in a multipurpose system to understand how managers balance sectoral priorities under uncertainty. The model uses stochastic dual dynamic programming (SDDP) to derive optimal release decisions and the Simulated Method of Moments (SMM) to identify the preference weights that best reconcile observed and simulated operations. The estimated policy accurately reproduces historical storage and release patterns in the PCW, revealing a management approach that prioritizes reliability in navigation and municipal supply while allowing flexible hydropower curtailments during droughts. Counterfactual simulations suggest that adaptive adjustments to these preferences could significantly reduce navigation losses and enhance water security during El Niño events. Additionally, experiments of extreme hydrological stress, such as the 2023-2024 drought, indicate that an adaptive release strategy could have preserved roughly 20% more storage, reduced navigation losses by one-third, and maintained full municipal supply. By structurally linking observed management behavior with dynamic optimization, the paper provides a quantitative basis for evaluating how adaptive reservoir operations can enhance welfare and resilience in climate-sensitive, economically strategic water systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
