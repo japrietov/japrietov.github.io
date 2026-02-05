@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/dynamic-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adaptive Water Management under Climate Stress: Evidence from the Panama Canal</title>
-      <link>http://localhost:1313/research/2025_pcmanagement/</link>
+      <link>http://localhost:1313/research/pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2025_pcmanagement/</guid>
+      <guid>http://localhost:1313/research/pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
   </channel>

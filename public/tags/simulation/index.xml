@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adaptive Water Management under Climate Stress: Evidence from the Panama Canal</title>
-      <link>http://localhost:1313/research/2025_pcmanagement/</link>
+      <link>http://localhost:1313/research/pcmanagement/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2025_pcmanagement/</guid>
+      <guid>http://localhost:1313/research/pcmanagement/</guid>
       <description>This paper develops a stochastic dynamic programming model to optimize water allocation in the Panama Canal System under climate uncertainty. By incorporating economic trade-offs across navigation, hydropower, and municipal supply, the model derives welfare-maximizing reservoir release policies that enhance system efficiency and resilience.</description>
     </item>
     <item>
       <title>Climate Change-driven drought could put the Panama Canal at risk</title>
-      <link>http://localhost:1313/research/2025_pcclimate/</link>
+      <link>http://localhost:1313/research/pcclimate/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2025_pcclimate/</guid>
+      <guid>http://localhost:1313/research/pcclimate/</guid>
       <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
     </item>
     <item>

@@ -10,6 +10,7 @@ cover:
     image: "MilkClimate.jpeg"
     alt: "MilkClimate"
     relative: true
+journal: "revisions requested - Environmental Research Letters (ERL)"
 # editPost:
 #     URL: "https://journals.plos.org/plosone"
 #     Text: "PloS one"

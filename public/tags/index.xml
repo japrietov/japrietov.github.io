@@ -51,9 +51,16 @@
       <description></description>
     </item>
     <item>
+      <title>Agriculture</title>
+      <link>http://localhost:1313/tags/agriculture/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Non-Parametric</title>
       <link>http://localhost:1313/tags/non-parametric/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/non-parametric/</guid>
       <description></description>
     </item>
