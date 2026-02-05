@@ -5,11 +5,15 @@ date: 2025-02-01
 hideDate: true
 author: [Jing Yi, "<strong>Jeisson Prieto</strong>", Elisabeth Garner, Hale Ann Tufan]
 hideSummary: true
-over:
+cover:
     image: "TechnologyAdoption.jpeg"
     alt: "TechnologyAdoption"
     relative: true
 journal: "Revisions requested - Plants, People, Planet (PPP)"
+# editPost:
+#     URL: "https://journals.plos.org/plosone"
+#     Text: "PloS one"
+# other: "sssadf"
 ---
 
 ---
