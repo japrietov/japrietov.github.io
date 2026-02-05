@@ -6,19 +6,26 @@
     <description>Recent content in Climate Change on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Impact of Climate Change on Trade through the Panama Canal</title>
+      <title>Climate-induced disruptions in Spatial Trade Networks</title>
       <link>http://localhost:1313/research/pctrade/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/pctrade/</guid>
       <description>This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint.</description>
     </item>
     <item>
+      <title>Climate Change-driven drought could put the Panama Canal at risk</title>
+      <link>http://localhost:1313/research/pcclimate/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/pcclimate/</guid>
+      <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
+    </item>
+    <item>
       <title>Accounting for quality more than doubles estimated heat damages to U.S. milk production</title>
       <link>http://localhost:1313/research/milkclimate/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/milkclimate/</guid>
       <description>&lt;!-- 
 
@@ -31,13 +38,6 @@
 &lt;hr&gt;
 &lt;h5 id=&#34;abstract&#34;&gt;Abstract&lt;/h5&gt;
 &lt;p&gt;Studies analyzing the impact of climate change on agriculture mostly emphasize effects on production quantity, overlooking potential impacts on quality and nutritional content. We explore this question in the context of U.S. milk production which represents about 20% of national animal products. We link individual lactation records for over 6.5 million cows over 2007-2016 with high-resolution weather data to estimate the nonlinear effects of heat on both milk yield and quality (composition in fat and protein). While milk yield declines sharply only when the Temperature-Humidity Index (THI) exceeds 70 (primarily in the summer), milk quality decreases steadily with rising THI (throughout the year). Combining these findings indicates that estimates of heat damages that ignore quality effects –the standard in the literature– underestimate total losses by at least a factor of two. We also find that the sensitivity of both milk yield and quality to heat varies little with cow age, farm size, region of the country, or period in the sample, suggesting there has been little progress in adapting U.S. dairy systems to a warming climate.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Climate Change-driven drought could put the Panama Canal at risk</title>
-      <link>http://localhost:1313/research/pcclimate/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/pcclimate/</guid>
-      <description>This study quantifies the economic impact of climate change on Panama Canal traffic using a two-stage least squares model. Lower Gatun Lake levels—driven by ENSO—significantly reduce daily vessel transits. Results highlight the need for adaptation strategies, including water conservation, infrastructure upgrades, and alternative trade routes to safeguard global commerce.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
-title: "Adaptive Water Management under Climate Stress: Evidence from the Panama Canal" 
+title: "Revealed Sectoral Priorities and Drought Resilience in a Multipurpose Water System" 
 tags: ["water", "dynamic optimization", "uncertanty", "simulation"]
-date: 2025-05-01
+date: 2026-01-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", "Stefano Galelli", "Ariel Ortiz-Bobea"]
 hideSummary: true
@@ -27,7 +27,7 @@ cover:
 ---
 ##### Abstract
 
-Water is a vital resource for human survival and economic activity, yet multipurpose reservoir systems face increasing pressure from competing demands and intensifying hydroclimatic variability. The Panama Canal Watershed (PCW)—a rain-fed system supporting global trade, hydropower, and municipal supply—illustrates this challenge. I develop a structural model of dynamic water allocation in a multipurpose system to understand how managers balance sectoral priorities under uncertainty. The model uses stochastic dual dynamic programming (SDDP) to derive optimal release decisions and the Simulated Method of Moments (SMM) to identify the preference weights that best reconcile observed and simulated operations. The estimated policy accurately reproduces historical storage and release patterns in the PCW, revealing a management approach that prioritizes reliability in navigation and municipal supply while allowing flexible hydropower curtailments during droughts. Counterfactual simulations suggest that adaptive adjustments to these preferences could significantly reduce navigation losses and enhance water security during El Niño events. Additionally, experiments of extreme hydrological stress, such as the 2023-2024 drought, indicate that an adaptive release strategy could have preserved roughly 20% more storage, reduced navigation losses by one-third, and maintained full municipal supply. By structurally linking observed management behavior with dynamic optimization, the paper provides a quantitative basis for evaluating how adaptive reservoir operations can enhance welfare and resilience in climate-sensitive, economically strategic water systems.
+Allocating limited water resources among competing uses is increasingly challenging as water demand rises and climate variability intensifies. Because water is commonly managed through administrative rules rather than market mechanisms, allocation outcomes reflect implicit policy priorities whose effects on performance and resilience are often difficult to assess. This paper develops a structural model of dynamic water allocation in a multipurpose reservoir system to recover the sectoral priorities embedded in observed management decisions. By employing stochastic dual dynamic programming and the simulated method of moments, we estimate preference weights that account for historical patterns in water storage and release. Applied to the Panama Canal Watershed, a rain-fed man-made reservoir that supports global trade, energy production, and municipal water supply, the model reveals a high implicit priority on drinking-water reliability and navigation, with hydropower acting as a flexible adjustment margin. Counterfactual drought simulations show that adaptive reallocation can preserve storage and reduce navigation losses during extreme climate stress.
 
 <!-- ---
 

@@ -1,8 +1,8 @@
 ---
-title: "The Impact of Climate Change on Trade through the Panama Canal" 
+title: "Climate-induced disruptions in Spatial Trade Networks" 
 tags: ["climate change", "international trade", "water"]
 author: ["<strong>Jeisson Prieto</strong>"]
-date: 2025-10-01
+date: 2026-02-01
 hideSummary: true
 summary: "This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint." 
 cover:

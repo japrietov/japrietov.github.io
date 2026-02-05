@@ -1,7 +1,7 @@
 ---
 title: "Accounting for quality more than doubles estimated heat damages to U.S. milk production" 
 tags: ["climate change", "non-parametric", "agriculture"]
-date: 2025-04-01
+date: 2025-06-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", Ziyi Lin, Kristan F. Reed, Christopher A. Wolf, Ariel Ortiz-Bobea]
 hideSummary: true
@@ -10,7 +10,7 @@ cover:
     image: "MilkClimate.jpeg"
     alt: "MilkClimate"
     relative: true
-journal: "revisions requested - Environmental Research Letters (ERL)"
+journal: "Revisions requested - Environmental Research Letters (ERL)"
 # editPost:
 #     URL: "https://journals.plos.org/plosone"
 #     Text: "PloS one"
