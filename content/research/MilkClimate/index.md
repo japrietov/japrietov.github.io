@@ -1,5 +1,5 @@
 ---
-title: "Accounting for quality more than doubles estimated heat damages to U.S. milk production" 
+title: "Milk composition responses amplify economic damages from heat stress" 
 tags: ["climate change", "non-parametric", "agriculture"]
 date: 2025-06-01
 hideDate: true
