@@ -1,5 +1,5 @@
 ---
-title: "Climate-induced disruptions in Spatial Trade Networks" 
+title: "Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal" 
 tags: ["climate change", "international trade", "water"]
 author: ["<strong>Jeisson Prieto</strong>"]
 date: 2026-02-01
@@ -26,7 +26,7 @@ cover:
 
 ##### Abstract
 
-Climate change poses significant challenges to global trade by disrupting crit- ical infrastructure like the Panama Canal, which accounts for 5% of global maritime trade and over 70% of U.S.-bound cargo. Recent droughts, intensified by El Ni˜no conditions, have significantly reduced water levels in Gatun Lake—the Canal’s primary freshwater source—prompting navigation restrictions and raising critical questions about its resilience to climate variability. This paper quantifies the economic consequences of these climate- induced disruptions and explores their implications for the United States. We model climate-driven disruptions in strategic maritime chokepoints as non-tariff barriers within a structural gravity framework, empirically esti- mating trade frictions linked to fluctuations in lake water levels and regional precipitation. We estimate that 10 mm decrease in monthly precipitation in the Panama Canal Watershed reduces US trade by 0.14% (i.e.,∼ 8.4% trade reduction during extremely dry months). By explicitly connecting localized environmental shocks to bilateral trade flows, this study sheds new light on how climate-sensitive infrastructure constraints can propagate through and substantially disrupt global trade networks.
+This paper studies how climate-driven water scarcity at the Panama Canal disrupts global shipping networks and generates spillovers on bilateral trade flows. The Canal is an ideal case study: a critical chokepoint whose lock system relies on a freshwater reservoir (Gatun Lake), making transit capacity directly sensitive to hydrological conditions. We develop a structural maritime network model with endogenous routing decisions and congestion externalities to quantify how water scarcity propagates through global shipping routes and affects U.S. international trade. A one-foot decline in lake levels reduces trade flows on Canal-exposed routes by about 5%, with effects concentrated in persistent, low-frequency drought cycles driven by phenomena such as ENSO; predictable seasonal dry periods generate smaller but still significant reductions. Effects are heterogeneous across U.S. coasts, partner regions, and commodity types. At the network level, water scarcity compresses traffic on Canal-exposed links and raises effective transport costs by roughly 1.5% for a five-foot decline, generating congestion spillovers that extend well beyond directly affected routes.
 
 <!-- ---
 
