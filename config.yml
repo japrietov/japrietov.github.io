@@ -27,7 +27,7 @@ menu:
 
 
 params:
-    description: "Computational Sustainability | Climate Change | International Trade | Water Resources"
+    description: "Climate Change | International Trade | Water Resources | Computational Sustainability"
     author: Jeisson Prieto
     googleAnalyticsID: "G-RY5T0358YL"
     DateFormat: "January 2006"
@@ -64,7 +64,7 @@ params:
             - name: Talks
               url: talks/
             - name: CV
-              url: jp-cv.pdf
+              url: https://drive.google.com/file/d/1bqV_H8Z0AhdYEoIz2oemFnupBO4fgaol/view?usp=sharing
             # - name: Data
             #   url: data/
             # - name: Books

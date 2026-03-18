@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "PhD candidate Jeisson Prieto's mailing and office addresses at the Institute of Romance Philology."
+description: "PhD candidate Jeisson Prieto's mailing and office addresses at Cornell University."
 
 ---
 
