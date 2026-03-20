@@ -37,7 +37,11 @@
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
-            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+            <a class="button" href="{{ trim .url " " }}"
+                {{- if (findRE "://" .url) }} target="_blank" rel="noopener noreferrer"
+                {{- else }} rel="noopener"
+                {{- end }}
+                title="{{ .name }}">
                 <span class="button-inner">
                     {{ .name }}
                     {{- if (findRE "://" .url) }}&nbsp;

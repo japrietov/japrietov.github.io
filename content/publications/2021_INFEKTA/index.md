@@ -6,13 +6,12 @@ author: ["Jonatan Gomez","<strong>Jeisson Prieto</strong>", "Elizabeth Leon", "A
 hideAuthorCard: true
 journal: "PloS one, 2021"
 hideSummary: true
-summary: "INFEKTA is an agent-based model that simulates infectious disease spread, including COVID-19, by integrating demographic data and mobility patterns within urban spaces. Applied to Bogotá, Colombia it shows that moderate social distancing (e.g., closing 40% of locations) can effectively reduce transmission, supporting data-driven public health policy decisions." 
 cover:
     image: "2021_INFEKTA.png"
     alt: "INFEKTA"
     relative: true
 editPost:
-    URL: "https://journals.plos.org/plosone"
+    URL: "https://doi.org/10.1371/journal.pone.0245787"
     Text: "PloS one"
 ---
 

@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Work in progress
+        - name: Working papers
           url: /research/
           weight: 1
         - name: Publications
@@ -22,7 +22,7 @@ menu:
           url: talks/
           weight: 3 
         - name: CV
-          url: jp-cv.pdf
+          url: https://drive.google.com/file/d/1bqV_H8Z0AhdYEoIz2oemFnupBO4fgaol/view?usp=sharing
           weight: 4
 
 
@@ -52,12 +52,12 @@ params:
     profileMode:
           enabled: true
           title: Jeisson Prieto
-          subtitle: "I’m a **PhD candidate** in **Applied Economics & Management** at **Cornell University**. My research lies at the intersection of **Climate Change**, **International Trade**, and **Water Resources**. Before starting my PhD, I completed a Master’s in Applied Mathematics and a Bachelor’s in Computer and Systems Engineering at the Universidad Nacional de Colombia."
+          subtitle: "I’m a **PhD candidate** in **Applied Economics & Management** at **Cornell University**. My research lies at the intersection of **Climate Change**, **International Trade**, **Water Resources**, and **Computational Sustainability**. Before starting my PhD, I completed a Master’s in Applied Mathematics and a Bachelor’s in Computer and Systems Engineering at the Universidad Nacional de Colombia."
           imageUrl: "jp2276_squared.jpeg"
           imageWidth: 160"
           imageHeight: 160"
           buttons:
-            - name: Work in progress
+            - name: Working papers
               url: research/
             - name: Publications
               url: publications/

@@ -13,7 +13,7 @@ cover:
     alt: "UVA"
     relative: true
 editPost:
-    URL: "https://www.mdpi.com/journal/sustainability"
+    URL: "https://doi.org/10.3390/su13063402"
     Text: "Sustainability"
 ---
 

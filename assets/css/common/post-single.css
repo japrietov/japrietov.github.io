@@ -439,3 +439,42 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
 }
+
+
+/* Make card clickable */
+.post-entry { cursor: pointer; }
+
+/* Abstract: hidden by default */
+.entry-abstract {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.25s ease, margin-top 0.25s ease;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+.entry-abstract.is-open {
+    grid-template-rows: 1fr;
+    margin-top: 6px;
+}
+.entry-abstract > p {
+    min-height: 0;
+    font-size: var(--entrysize);
+    color: var(--secondary);
+    line-height: var(--lineheight);
+    border-left: 3px solid var(--border);
+    padding-left: 12px;
+}
+
+/* Title is the only navigation link now */
+.entry-header h2 a {
+    color: var(--primary);
+    text-decoration: none;
+}
+.entry-header h2 a:hover { text-decoration: underline; }
+
+.entry-footer {
+    color: var(--content);
+    font-size: var(--entrysize);
+    margin-top: 6px;
+}

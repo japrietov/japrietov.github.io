@@ -13,7 +13,7 @@
       <link>http://localhost:1313/research/pctrade/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/pctrade/</guid>
-      <description>This paper examines how climate-induced water shortages in the Panama Canal act as non-tariff trade barriers, reducing U.S. trade by up to 8.4% during extreme droughts. Using a structural gravity model, it quantifies the economic impact of localized climate shocks on trade flows through a critical global chokepoint.</description>
+      <description>This paper studies how climate-driven water scarcity at the Panama Canal disrupts global shipping networks and generates spillovers on bilateral trade flows. The Canal is an ideal case study: a critical chokepoint whose lock system relies on a freshwater reservoir (Gatun Lake), making transit capacity directly sensitive to hydrological conditions. We develop a structural maritime network model with endogenous routing decisions and congestion externalities to quantify how water scarcity propagates through global shipping routes and affects U.S. international trade. A one-foot decline in lake levels reduces trade flows on Canal-exposed routes by about 5%, with effects concentrated in persistent, low-frequency drought cycles driven by phenomena such as ENSO; predictable seasonal dry periods generate smaller but still significant reductions. Effects are heterogeneous across U.S. coasts, partner regions, and commodity types. At the network level, water scarcity compresses traffic on Canal-exposed links and raises effective transport costs by roughly 1.5% for a five-foot decline, generating congestion spillovers that extend well beyond directly affected routes.</description>
     </item>
   </channel>
 </rss>
