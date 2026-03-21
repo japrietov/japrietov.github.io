@@ -145,16 +145,15 @@
 
 
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('.post-entry, .first-entry').forEach(function (card) {
-        card.addEventListener('click', function (e) {
-            const title = card.querySelector('h2')?.innerText?.trim();
-
+document.querySelectorAll('.post-entry, .first-entry').forEach(function (card) {
+    card.addEventListener('click', function () {
+        const title = card.querySelector('h2')?.innerText?.trim();
+        if (typeof gtag === 'function') {
             gtag('event', 'card_click', {
                 event_category: 'research_card',
                 event_label: title,
             });
-        });
+        }
     });
 });
 </script>
