@@ -142,3 +142,19 @@
     });
 </script>
 {{- end }}
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.post-entry, .first-entry').forEach(function (card) {
+        card.addEventListener('click', function (e) {
+            const title = card.querySelector('h2')?.innerText?.trim();
+
+            gtag('event', 'card_click', {
+                event_category: 'research_card',
+                event_label: title,
+            });
+        });
+    });
+});
+</script>
