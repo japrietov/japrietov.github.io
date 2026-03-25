@@ -4,8 +4,8 @@ description: "Given talks at conferences and seminars"
 ---
 
 ## 2026 (including scheduled)
-- *"Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal"* [Caribbeans for Climate - Spring 2026 Research Symposium](https://www.caribbeansforclimate.com/), Virtual, 2026.
-- *"Climate, Trade, and Water: When the management of a Common-Pool Resource disrupts International trade."* [Workshop de Matemáticas Aplicadas](https://dgroldan.github.io/workshop-matematicas.html), Bogota, Colombia, 2026.
+- *"Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal"* [Caribbeans for Climate - Research Symposium](https://www.caribbeansforclimate.com/), Virtual, 2026.
+- *"Climate, Trade, and Water: When the management of a Common-Pool Resource disrupts International trade."* [Workshop de Matemáticas Aplicadas - UNAL](https://dgroldan.github.io/workshop-matematicas.html), Bogota, Colombia, 2026.
 
 ## 2025
 - *"Adaptive Water Management under Climate Stress: Evidence from the Panama Canal"* [AGU25 Annual Meeting](https://www.agu.org/annual-Meeting), New Orleans, LA, 2025.
