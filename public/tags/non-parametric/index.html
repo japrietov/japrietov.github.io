@@ -119,7 +119,7 @@
 </header>
 
 <article class="post-entry tag-entry"
-  onclick="(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open')})(event,'abstract-0')"> 
+  onclick="if(event.detail>1)return;(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open');if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:document.getElementById(id).closest('article').querySelector('h2').innerText.trim()})}})(event,'abstract-0')"> 
 <figure class="entry-cover">
             <img loading="lazy" src="http://localhost:1313/research/pcclimate/PCclimate.jpeg" alt="PCmanagement">
 </figure>
@@ -136,7 +136,7 @@
 </article>
 
 <article class="post-entry tag-entry"
-  onclick="(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open')})(event,'abstract-1')"> 
+  onclick="if(event.detail>1)return;(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open');if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:document.getElementById(id).closest('article').querySelector('h2').innerText.trim()})}})(event,'abstract-1')"> 
 <figure class="entry-cover">
             <img loading="lazy" src="http://localhost:1313/research/milkclimate/MilkClimate.jpeg" alt="MilkClimate">
 </figure>
@@ -153,9 +153,9 @@
 </article>
 
 <article class="post-entry tag-entry"
-  onclick="(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open')})(event,'abstract-2')"> 
+  onclick="if(event.detail>1)return;(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open');if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:document.getElementById(id).closest('article').querySelector('h2').innerText.trim()})}})(event,'abstract-2')"> 
 <figure class="entry-cover">
-            <img loading="lazy" src="http://localhost:1313/research/technologyadoption/TechnologyAdoption.jpeg" alt="TechnologyAdoption">
+            <img loading="lazy" src="http://localhost:1313/publications/technologyadoption/TechnologyAdoption.jpeg" alt="TechnologyAdoption">
 </figure>
 
   <header class="entry-header">
@@ -165,7 +165,7 @@
   <div class="entry-abstract" id="abstract-2">
     <p>Accurately measuring agricultural technology adoption rates underpins impact claims made for new technologies. While numerous studies have documented gender-based differences in adoption of agricultural technologies, there remains an urgent need to understand how study design and respondent selection within households shape these reported differences. We explore the case of improved cassava varieties (ICV) in Nigeria to examine differences in reporting on varietal adoption rates based on sampling method, level of analysis, and household position. We compare intrahousehold (spousal), household and plot level data for self-reported rates of ICV adoption and compare these and to data from DNA fingerprinting using McNemar’s test for the binary response and Wilcoxon signed-rank test for the count number and Probit and negative binomial models. We identify significant disparities in reported rates of ICV adoption at the household, spousal and plot levels, most of which were different from DNA fingerprinting data collected from respondents’ plots. Our findings shed light on the importance of participant selection in varietal adoption studies and raise question around self-reported adoption rates in the literature. Varietal adoption rates are used to measure a breeding program’s success and impact. However, this study shows that estimated rates can differ significantly depending on adoption study design – including unit of analysis, selection of data source, and how the questions are asked. We call for more data feminism around crop varietal adoption studies, study designs that minimize bias, expanded design standards to include multiple respondents within each household, and multiple data analysis methods that reflect the plurality of experiences with adoption amongst farmers.</p>
   </div>
-  <footer class="entry-footer">Jing Yi,&thinsp;<strong>Jeisson Prieto</strong>,&thinsp;Elisabeth Garner,&thinsp;Hale Ann Tufan&nbsp;&middot;&nbsp;<em>Revisions requested - Plants, People, Planet (PPP)</em></footer>
+  <footer class="entry-footer">Jing Yi,&thinsp;<strong>Jeisson Prieto</strong>,&thinsp;Elisabeth Garner,&thinsp;Hale Ann Tufan&nbsp;&middot;&nbsp;<em>Forthcoming - Plants, People, Planet (2026)</em></footer>
 
 </article>
     </main>

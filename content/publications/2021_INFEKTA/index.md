@@ -4,7 +4,7 @@ date: 2021-02-19
 tags: ["complex systems", "infectious diseases", "spatial analysis", "simulation"]
 author: ["Jonatan Gomez","<strong>Jeisson Prieto</strong>", "Elizabeth Leon", "Arles Rodríguez"]
 hideAuthorCard: true
-journal: "PloS one, 2021"
+journal: "PloS one (2021)"
 hideSummary: true
 cover:
     image: "2021_INFEKTA.png"

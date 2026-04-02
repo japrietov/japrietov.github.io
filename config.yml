@@ -93,10 +93,12 @@ params:
         #   url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=5hGcelEAAAAJ
-        - name: GitHub
-          url: https://github.com/japrietov
+        - name: Orcid
+          url: https://orcid.org/0000-0002-9259-4699
         - name: LinkedIn
           url: https://www.linkedin.com/in/jeisson-prieto/
+        - name: GitHub
+          url: https://github.com/japrietov
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube

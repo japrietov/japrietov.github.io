@@ -4,7 +4,7 @@ date: 2021-03-19
 tags: ["complex systems", "infectious diseases", "spatial analysis", "uncertanty"]
 author: ["<strong>Jeisson Prieto</strong>", "Rafael Malagón", "Jonatan Gomez", "Elizabeth Leon"]
 hideDateCard: true
-journal: "Sustainability, 2021"
+journal: "Sustainability (2021)"
 hideJournal: false
 hideSummary: true
 # summary: "The Urban Vulnerability Assessment (UVA) is a methodology to identify areas most at risk during pandemics by analyzing factors like urban density, poverty, and informal labor. Applied to Bogotá, Colombia during COVID-19, it helps prioritize surveillance and supports disaster risk reduction policies across scales and under resource-constrained scenarios." 
