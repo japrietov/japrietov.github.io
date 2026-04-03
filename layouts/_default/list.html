@@ -56,7 +56,7 @@
 
 <article class="{{ $class }}"
   {{- if $hasSummary }}
-  onclick="if(event.detail>1)return;(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open');if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:document.getElementById(id).closest('article').querySelector('h2').innerText.trim()})}})(event,'abstract-{{ $index }}')"
+  onclick="if(event.detail>1)return;(function(e,id){if(e.target.closest('a'))return;document.getElementById(id).classList.toggle('is-open');if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:'{{ .Title | plainify | htmlEscape }}'})}})(event,'abstract-{{ $index }}')"
   {{- end }}>
 
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
@@ -85,7 +85,7 @@
 
   {{- if not $hasSummary }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ $url }}" target="_blank" rel="noopener noreferrer"
-    onclick="if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:'{{ .Title | plainify }}'})}"></a>
+   onclick="if(typeof gtag==='function'){gtag('event','card_click',{event_category:'research_card',event_label:'{{ .Title | plainify | htmlEscape }}'})}"></a>
   {{- end }}
 
 </article>
