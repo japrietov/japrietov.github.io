@@ -15,14 +15,15 @@ description: "Given talks at conferences and seminars"
   [AERE Summer Conference](https://www.aere.org/summer-conference) <!--, Santa Ana Pueblo, NM -->
 ·
   [AGU25 Annual Meeting](https://www.agu.org/annual-Meeting) <!--, New Orleans, LA -->
-· SEERE seminar, Cornell University
+· 
+  [Cornell SEERE seminar](https://blogs.cornell.edu/workshops/seere-seminar/) 
 - *"Extreme heat negatively impacts dairy milk yield, fat and protein."*
   [AGU25 Annual Meeting](https://www.agu.org/annual-Meeting) <!--, Santa Ana Pueblo, NM -->
 
 
 ## 2024
 - *"Climate Change-driven drought could put the Panama Canal at risk"*
-  EWRS seminar, Cornell University
+  Cornell EWRS seminar
 - *"Resources Module Visualization: Resource Use in the U.S. Food System."*
   Invited Presentation, USDA's Economic Research Service (ERS)
 
