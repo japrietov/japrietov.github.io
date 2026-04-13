@@ -6,8 +6,15 @@
     <description>Recent content in Agriculture on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decomposing the growth of historical U.S. agricultural greenhouse gas emissions</title>
+      <link>http://localhost:1313/research/tfp_ghg_usag/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/tfp_ghg_usag/</guid>
+      <description>We decompose state-level U.S. agricultural greenhouse gas emissions growth into output growth, input emission intensity, and total factor productivity (TFP). Combining EPA emissions data with USDA productivity accounts over 1990–2015, we find that TFP growth historically slowed emissions but has recently weakened. Declining input emission intensity, concentrated in the Southeast, has become the dominant mitigating factor. Further decomposition suggests that land productivity gains are more closely linked to emission reductions than labor productivity gains.</description>
+    </item>
     <item>
       <title>Milk composition responses amplify economic damages from heat stress</title>
       <link>http://localhost:1313/research/milkclimate/</link>

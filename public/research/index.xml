@@ -6,14 +6,21 @@
     <description>Recent content in Working papers on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal</title>
       <link>http://localhost:1313/research/pctrade/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/pctrade/</guid>
       <description>Climate change increasingly disrupts the infrastructure underpinning global trade. Maritime chokepoints are particularly exposed: localized shocks can propagate through shipping networks, generating welfare losses far beyond the directly affected region. This paper studies this mechanism using the Panama Canal, whose lock system relies on a freshwater reservoir (Gatun Lake), making transit capacity directly sensitive to hydrological conditions. I develop a structural maritime network model with endogenous routing and network spillovers to quantify how water scarcity propagates through global shipping routes and affects U.S. international trade. At the network level, a one-foot decline in lake levels raises transport costs on Canal links by approximately 0.19%, triggering rerouting and increased traffic along alternative corridors. The resulting welfare effects are highly uneven across U.S. states, with losses concentrated along the East and Gulf Coasts and modest gains on the Pacific Coast. While reduced-form estimates imply that a one-foot decline in lake levels lowers trade on Canal-dependent routes by about 2–3%, general-equilibrium network effects amplify this impact. Accounting for rerouting and network spillovers, trade declines by approximately 8% on average across affected routes.</description>
+    </item>
+    <item>
+      <title>Decomposing the growth of historical U.S. agricultural greenhouse gas emissions</title>
+      <link>http://localhost:1313/research/tfp_ghg_usag/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/tfp_ghg_usag/</guid>
+      <description>We decompose state-level U.S. agricultural greenhouse gas emissions growth into output growth, input emission intensity, and total factor productivity (TFP). Combining EPA emissions data with USDA productivity accounts over 1990–2015, we find that TFP growth historically slowed emissions but has recently weakened. Declining input emission intensity, concentrated in the Southeast, has become the dominant mitigating factor. Further decomposition suggests that land productivity gains are more closely linked to emission reductions than labor productivity gains.</description>
     </item>
     <item>
       <title>Recovering Revealed Preferences of Centralized Decision-Makers: Evidence from Water Allocation in the Panama Canal</title>
