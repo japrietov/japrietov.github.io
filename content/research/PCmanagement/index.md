@@ -4,15 +4,15 @@ tags: ["water", "dynamic optimization", "uncertanty", "simulation"]
 date: 2026-01-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", "Stefano Galelli", "Ariel Ortiz-Bobea"]
-hideSummary: false
+hideSummary: true
 summary: "Allocating limited water resources among competing uses is increasingly challenging as climate variability intensifies. Water is typically allocated through administrative rules rather than markets, embedding implicit policy priorities whose economic trade-offs are difficult to quantify and evaluate. This paper recovers these implicit priorities from observed management decisions. We develop a structural model that frames the manager’s problem as a stochastic dynamic optimization and apply the simulated method of moments to estimate the preference weights that rationalize historical storage and release patterns. Applied to the Panama Canal Watershed –a water system supporting navigation, hydroelectric power, and municipal water consumption– we recover a high implicit priority on drinking-water reliability and navigation, with hydropower acting as a flexible adjustment margin. Counterfactual simulations suggest that administrative allocation can broadly serve competing water uses without severe distortions, yet the 2023–2024 drought reveals that sustained scarcity forces increasingly costly trade-offs that administrative rules alone cannot resolve." 
 cover:
-    image: "PCmanagement.jpeg"
+    image: "PCmanagement.jpg"
     alt: "PCmanagement"
     relative: true
-# editPost:
-#     URL: "https://journals.plos.org/plosone"
-#     Text: "PloS one"
+editPost:
+    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6575898"
+    Text: "PloS one"
 # other: "sssadf"
 ---
 <!-- 
