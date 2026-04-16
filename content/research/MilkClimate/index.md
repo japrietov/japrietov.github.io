@@ -1,7 +1,7 @@
 ---
 title: "Milk composition responses amplify economic damages from heat stress" 
 tags: ["climate change", "non-parametric", "agriculture"]
-date: 2025-06-01
+date: 2026-01-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", Ziyi Lin, Kristan F. Reed, Christopher A. Wolf, Ariel Ortiz-Bobea]
 hideSummary: false

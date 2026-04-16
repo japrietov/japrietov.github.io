@@ -1,7 +1,7 @@
 ---
-title: "Recovering Revealed Preferences of Centralized Decision-Makers: Evidence from Water Allocation in the Panama Canal" 
+title: "Recovering Revealed Preferences of Centralized Decision-Makers: Evidence from the Panama Canal" 
 tags: ["water", "dynamic optimization", "uncertanty", "simulation"]
-date: 2026-01-01
+date: 2026-03-01
 hideDate: true
 author: ["<strong>Jeisson Prieto</strong>", "Stefano Galelli", "Ariel Ortiz-Bobea"]
 hideSummary: true

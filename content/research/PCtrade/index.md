@@ -1,5 +1,5 @@
 ---
-title: "Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal" 
+title: "Climate Rerouting: Network Externalities in Global Trade" 
 tags: ["climate change", "international trade", "water"]
 author: ["<strong>Jeisson Prieto</strong>"]
 date: 2026-04-01
