@@ -1,5 +1,5 @@
 ---
-title: "Recovering Revealed Preferences of Centralized Decision-Makers: Evidence from the Panama Canal" 
+title: "Revealed Preferences of Centralized Decision-Makers: Evidence from the Panama Canal" 
 tags: ["water", "dynamic optimization", "uncertanty", "simulation"]
 date: 2026-03-01
 hideDate: true
