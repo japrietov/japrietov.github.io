@@ -478,3 +478,68 @@ a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     font-size: var(--entrysize);
     margin-top: 6px;
 }
+
+
+/* ── Talks timeline ─────────────────────────────── */
+.talks-section { margin-bottom: 2rem; }
+.talks-heading {
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 5px;
+    margin-bottom: 1.1rem;
+}
+.talks-heading.upcoming { color: var(--primary); }
+.talks-heading.past     { color: var(--secondary); }
+.talk-row {
+    display: flex;
+    gap: 1.2rem;
+    margin-bottom: 1.1rem;
+    align-items: flex-start;
+}
+.talk-date {
+    min-width: 44px;
+    text-align: center;
+    line-height: 1.2;
+    padding-top: 2px;
+    flex-shrink: 0;
+}
+.talk-date .month {
+    display: block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--secondary);
+}
+.talk-date .day {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+.talk-body { flex: 1; }
+.talk-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--primary);
+    margin-bottom: 3px;
+}
+.talk-venue {
+    font-size: 0.83rem;
+    color: var(--secondary);
+}
+.talk-venue a {
+    color: var(--secondary);
+    box-shadow: none;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+.talk-award {
+    font-style: italic;
+    font-size: 0.8rem;
+    color: var(--darkcolor);
+    margin-left: 6px;
+}
