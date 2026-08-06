@@ -7,9 +7,27 @@ description: "Given talks at conferences and seminars"
 <div class="talks-heading upcoming">2026 (including scheduled)</div>
 
 <div class="talk-row">
-  <div class="talk-date"><span class="month">Jun</span><span class="day">15–16</span></div>
+  <div class="talk-date"><span class="month">Nov</span><span class="day">12–14</span></div>
   <div class="talk-body">
     <div class="talk-title">Local Shocks, Global Ripples: Climate Disruptions in Maritime Trade Networks</div>
+    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://lacealames2026.org/">LACEA–LAMES 2026 Annual Meeting</a>, Lima, Peru</div>
+  </div>
+</div>
+
+
+<div class="talk-row">
+  <div class="talk-date"><span class="month">Oct</span><span class="day">16-18</span></div>
+  <div class="talk-body">
+    <div class="talk-title">Local Shocks, Global Ripples: Climate Disruptions in Maritime Trade Networks</div>
+    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/view/midwesttradetheoryconference">Midwest International Trade & Theory Conference</a>, Toronto, Canada</div>
+  </div>
+</div>
+
+
+<div class="talk-row">
+  <div class="talk-date"><span class="month">Jun</span><span class="day">15–16</span></div>
+  <div class="talk-body">
+    <div class="talk-title">Water Scarcity, Network Externalities, and Trade: Evidence from the Panama Canal</div>
     <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://tradeenv2026.sciencesconf.org/">Paris-Saclay Conference on Trade and the Environment</a>, Palaiseau, France</div>
   </div>
 </div>
@@ -18,7 +36,7 @@ description: "Given talks at conferences and seminars"
 <div class="talk-row">
   <div class="talk-date"><span class="month">Jun</span><span class="day">06–12</span></div>
   <div class="talk-body">
-    <div class="talk-title">Local Shocks, Global Ripples: Climate Disruptions in Maritime Trade Networks</div>
+    <div class="talk-title">Chokepoint Spillovers: Water Scarcity and Network Propagation in Global Trade</div>
     <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://www.usc.gal/en/conference/2026-eaere">EAERE Summer School 2026</a>, Santiago de Compostela, Spain</div>
   </div>
 </div>
