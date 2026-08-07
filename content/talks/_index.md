@@ -74,6 +74,14 @@ description: "Given talks at conferences and seminars"
 </div>
 
 <div class="talk-row">
+  <div class="talk-date"><span class="month">Nov</span><span class="day">20</span></div>
+  <div class="talk-body">
+    <div class="talk-title">Adaptive Water Management under Climate Stress: Evidence from the Panama Canal</div>
+    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://blogs.cornell.edu/workshops/seere-seminar/">Cornell SEERE Seminar</a></div>
+  </div>
+</div>
+
+<div class="talk-row">
   <div class="talk-date"><span class="month">Nov</span><span class="day">13–14</span></div>
   <div class="talk-body">
     <div class="talk-title">Climate, Trade, and Water: When the management of a Common-Pool Resource disrupts International trade</div>
@@ -89,13 +97,7 @@ description: "Given talks at conferences and seminars"
   </div>
 </div>
 
-<div class="talk-row">
-  <div class="talk-date"><span class="month">Nov</span><span class="day">20</span></div>
-  <div class="talk-body">
-    <div class="talk-title">Adaptive Water Management under Climate Stress: Evidence from the Panama Canal</div>
-    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://blogs.cornell.edu/workshops/seere-seminar/">Cornell SEERE Seminar</a></div>
-  </div>
-</div>
+
 
 </div>
 
@@ -129,18 +131,20 @@ description: "Given talks at conferences and seminars"
 <div class="talk-row">
   <div class="talk-date"><span class="month">2019</span><span class="day"></span></div>
   <div class="talk-body">
+    <div class="talk-title">mandatum: The Eco-Friendly Way of Shopping</div>
+    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://www.compsust.net/compsust-2019/">Doctoral Consortium on Computational Sustainability</a>, Pittsburgh, PA</div>
+  </div>
+</div>
+
+
+<div class="talk-row">
+  <div class="talk-date"><span class="month">2019</span><span class="day"></span></div>
+  <div class="talk-body">
     <div class="talk-title">Multi-objective evolutionary algorithm for DNA codeword design</div>
     <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://dl.acm.org/doi/10.1145/3321707.3321855">Genetic and Evolutionary Computation Conference</a>, Prague, Czech Republic</div>
   </div>
 </div>
 
-<div class="talk-row">
-  <div class="talk-date"><span class="month">2019</span><span class="day"></span></div>
-  <div class="talk-body">
-    <div class="talk-title">mandatum: The Eco-Friendly Way of Shopping</div>
-    <div class="talk-venue">📍 <a target="_blank" rel="noopener noreferrer" href="https://www.compsust.net/compsust-2019/">Doctoral Consortium on Computational Sustainability</a>, Pittsburgh, PA</div>
-  </div>
-</div>
 
 <div class="talk-row">
   <div class="talk-date"><span class="month">2019</span><span class="day"></span></div>
