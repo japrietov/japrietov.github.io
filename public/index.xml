@@ -6,8 +6,15 @@
     <description>Recent content on Jeisson Prieto</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decomposing the growth of historical U.S. agricultural greenhouse gas emissions</title>
+      <link>http://localhost:1313/publications/tfp_ghg_usag/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/tfp_ghg_usag/</guid>
+      <description>We decompose state-level U.S. agricultural greenhouse gas emissions growth into output growth, input emission intensity, and total factor productivity (TFP). Combining EPA emissions data with USDA productivity accounts over 1990–2015, we find that TFP growth historically slowed emissions but has recently weakened. Declining input emission intensity, concentrated in the Southeast, has become the dominant mitigating factor. Further decomposition suggests that land productivity gains are more closely linked to emission reductions than labor productivity gains.</description>
+    </item>
     <item>
       <title>Milk composition responses amplify economic damages from heat stress</title>
       <link>http://localhost:1313/publications/milkclimate/</link>
@@ -35,13 +42,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/pcmanagement/</guid>
       <description>Allocating limited water resources among competing uses is increasingly challenging as climate variability intensifies. Water is typically allocated through administrative rules rather than markets, embedding implicit policy priorities whose economic trade-offs are difficult to quantify and evaluate. This paper recovers these implicit priorities from observed management decisions. We develop a structural model that frames the manager’s problem as a stochastic dynamic optimization and apply the simulated method of moments to estimate the preference weights that rationalize historical storage and release patterns. Applied to the Panama Canal Watershed –a water system supporting navigation, hydroelectric power, and municipal water consumption– we recover a high implicit priority on drinking-water reliability and navigation, with hydropower acting as a flexible adjustment margin. Counterfactual simulations suggest that administrative allocation can broadly serve competing water uses without severe distortions, yet the 2023–2024 drought reveals that sustained scarcity forces increasingly costly trade-offs that administrative rules alone cannot resolve.</description>
-    </item>
-    <item>
-      <title>Decomposing the growth of historical U.S. agricultural greenhouse gas emissions</title>
-      <link>http://localhost:1313/research/tfp_ghg_usag/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/tfp_ghg_usag/</guid>
-      <description>We decompose state-level U.S. agricultural greenhouse gas emissions growth into output growth, input emission intensity, and total factor productivity (TFP). Combining EPA emissions data with USDA productivity accounts over 1990–2015, we find that TFP growth historically slowed emissions but has recently weakened. Declining input emission intensity, concentrated in the Southeast, has become the dominant mitigating factor. Further decomposition suggests that land productivity gains are more closely linked to emission reductions than labor productivity gains.</description>
     </item>
     <item>
       <title>Silvopasture serves as a safety net for environmental and social stressors</title>
